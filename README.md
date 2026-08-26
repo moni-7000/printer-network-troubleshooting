@@ -43,4 +43,5 @@ A write up of my troubleshooting process as I fixed a printer that wasn't functi
 # What I learned / Final Thoughts:
 - The main thing that I learned, was what an AIPIA address was. Initially I hadn't known, which led me to assume the IP address was valid.
 - I learned about the role of resetting devices for some changes to take place.
-- And I continued to strengthen my troubleshooting and problem solving skills.
+- I continued to strengthen my troubleshooting and problem solving skills.
+- This was a *lot* of fun, and I earned snacks from the building management!
